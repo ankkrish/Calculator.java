@@ -8,8 +8,8 @@ themes:
     btnEqualBackground: 0067c0
   - name: Dark
     applicationBackground: 1c2028
-    textColor: ffffff
+    textColor: 2986cc
     operatorBackground: 2d333d
     numbersBackground: 363c47
-    btnEqualTextColor: ffffff
+    btnEqualTextColor: fff fff
     btnEqualBackground: 4cc2ff

@@ -555,7 +555,7 @@ public class CalculatorUI {
         btnRoot.setForeground(hex2Color(theme.getTextColor()));
         btnLog.setForeground(hex2Color(theme.getTextColor()));
         btnPower.setForeground(hex2Color(theme.getTextColor()));
-        btnEqual.setForeground(hex2Color(theme.getBtnEqualTextColor()));
+        btnEqual.setForeground(hex2Color(theme.getTextColor()));
 
         comboCalculatorType.setBackground(hex2Color(theme.getApplicationBackground()));
         comboTheme.setBackground(hex2Color(theme.getApplicationBackground()));
